@@ -2,7 +2,7 @@ Hi,
 
 This is my personal website repository.
 
-[I'm an inline-style link](https://www.google.com)
+[**Visit the webiste:**](https://bajajraj.github.io/)
 
 Help taken from HTML5.
 
