@@ -2,7 +2,8 @@ Hi,
 
 This is my personal website repository.
 
-[**Visit the webiste:**](https://bajajraj.github.io/)
+**Visit the webiste:**
+(https://bajajraj.github.io/)
 
 Help taken from HTML5.
 
